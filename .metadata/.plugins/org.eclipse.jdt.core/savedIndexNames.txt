@@ -5,6 +5,7 @@ INDEX VERSION 1.134+C:\Users\pheli\OneDrive\Desktop\estrutur4_de_dados\.metadata
 1220520207.index
 1138342978.index
 2715552826.index
+3717427611.index
 865931447.index
 1020521804.index
 887000276.index
